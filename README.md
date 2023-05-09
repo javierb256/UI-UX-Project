@@ -32,6 +32,7 @@ Link to these wireframes in Figma [Figma wireframes](https://www.figma.com/file/
 A prototype is a High-fidelity prototype that closely represents the final product created in Figma. The prototype is interactive, allowing a user to preview the possible final project with interactive elements such as buttons and visual elements.  
 
 ![Table Reservation choose Date, Time and Guests amount](https://github.com/javierb256/UI-UX-Project/blob/main/Table%20Reservation%20-%20Time-Date.png)  
-![Table Reservation - Contact Information](https://github.com/javierb256/UI-UX-Project/blob/main/Table%20Reservation%20-%20Contact%20Information.png)
+![Table Reservation - Contact Information](https://github.com/javierb256/UI-UX-Project/blob/main/Table%20Reservation%20-%20Contact%20Information.png)  
+
 ![Table Reservation Confirmation popup](https://github.com/javierb256/UI-UX-Project/blob/main/Confirmation%20Popup.png)  
 [View prototype](https://www.figma.com/proto/dU4fjADVKulTONUcY5FB1q/Booking-Table-Prototype?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=121%3A1612)
